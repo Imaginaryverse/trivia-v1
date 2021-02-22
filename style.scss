@@ -172,13 +172,17 @@ body {
 
   .answers-container {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, auto);
-    gap: 1.25rem;
+    gap: 1rem;
+
+    width: 100%;
+
+    padding: 1.5rem;
 
     .answer-btn {
       height: 5rem;
-      width: 8rem;
+      /* width: 8rem; */
 
       border: 2px solid black;
       outline: none;
@@ -281,7 +285,7 @@ body {
 
     .answer-btn {
       height: 6rem !important;
-      width: 12rem !important;
+      /* width: 12rem !important; */
 
       font-size: 1.15rem;
     }
