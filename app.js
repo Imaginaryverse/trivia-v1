@@ -893,7 +893,7 @@ const questions = {
         },
         {
           answer: 'Inventor of the Light Bulb',
-          correct: true,
+          correct: false,
         },
         {
           answer: 'Founder of Coca Cola',
