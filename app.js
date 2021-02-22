@@ -1053,11 +1053,11 @@ const questions = {
         },
         {
           answer: '4.5 billion years',
-          correct: false,
+          correct: true,
         },
         {
           answer: '5.6 million years',
-          correct: true,
+          correct: false,
         },
         {
           answer: '350 000 years',
