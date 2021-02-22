@@ -1257,27 +1257,27 @@ const questions = {
         'RAM stands for Random Access Memory, a component that allows your computer to store data short-term for quicker access.',
     },
     {
-      question: 'What does RAM stand for?',
+      question: 'Where would you find the "Spanish Steps"?',
       answers: [
         {
-          answer: 'Random Allocated Memory',
+          answer: 'Madrid, Spain',
           correct: false,
         },
         {
-          answer: 'Redirected Action Memory',
-          correct: false,
-        },
-        {
-          answer: 'Readily Available Memory',
-          correct: false,
-        },
-        {
-          answer: 'Random Access Memory',
+          answer: 'Rome, Italy',
           correct: true,
+        },
+        {
+          answer: 'Athens, Greece',
+          correct: false,
+        },
+        {
+          answer: 'Mexico City. Mexico',
+          correct: false,
         },
       ],
       info:
-        'RAM stands for Random Access Memory, a component that allows your computer to store data short-term for quicker access.',
+        'The Spanish Steps are a set of steps in Rome, Italy, climbing a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti, dominated by the Trinità dei Monti church at the top.',
     },
     {
       question:
