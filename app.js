@@ -1630,7 +1630,7 @@ const renderDifficultySelectScreen = () => {
   app.innerHTML = `
   <div class="difficulty-screen">
     <span class="select-difficulty-heading">
-      SELECT DIFFUCLTY
+      SELECT DIFFICULTY
     </span>
     <div class="difficulty-btns-container">
       <button class="difficulty-btn" value="EASY">
